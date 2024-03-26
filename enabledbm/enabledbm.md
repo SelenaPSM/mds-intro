@@ -160,9 +160,6 @@ Typically, the service is enabled during the provisioning of your MySQL HeatWave
         * Additional tiles provide performance data to further analyze the overall performance for a single query and allows the DBA and developers tools to assess impact and tune query performance.
             
 
-    
-
-
 
 ## Acknowledgements
 
