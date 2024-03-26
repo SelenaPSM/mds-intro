@@ -164,7 +164,7 @@ Typically, the service is enabled during the provisioning of your MySQL HeatWave
 ## Acknowledgements
 
 - **Author** - Derik Harlow, MySQL Product Manager 
-- **Contributors** - Derik Harlow, MySQL Product Manager; Sriram Vrinda, MySQL Product ManagerSelena Sánchez; Perside Foster, MySQL Solution Engineering; Selena Sánchez MySQL Solution Engineering
+- **Contributors** - Derik Harlow, MySQL Product Manager; Sriram Vrinda, MySQL Product Manager; Perside Foster, MySQL Solution Engineering; Selena Sánchez MySQL Solution Engineering
 - **Last Updated By/Date** - Selena Sánchez, MySQL Solution Engineering, March 2024 
 
 
