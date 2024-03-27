@@ -1,8 +1,8 @@
 # Introduction
 
-In this lab, you will learn how to enable Database Management for MySQL HeatWave on Oracle Cloud Infrastructure (OCI) and use it to Monitor your DB system performance.
+In this lab, you will learn how to enable Database Management for MySQL HeatWave on Oracle Cloud Infrastructure (OCI) and use it to monitor your DB system performance.
 
-EstimatedTime: 15 minutes 
+Estimated Time: 15 minutes 
 
 ### About Database Management for MySQL HeatWave
 Database Management for MySQL HeatWave is a free service to monitor and manage your database environment deployments, it provides a single-pane-of-glass view of your MySQL HeatWave deployments for quickly assessing top resource utilization as well as alarm status for your entire fleet.  
@@ -29,16 +29,16 @@ Here are some of the tasks you can perform using Database Management, which are 
 In this lab, you will be guided through the following steps:
 
 * Verify if Database Management service is enabled for your MySQL HeatWave DB system (enable it if not)
-* Manage MySQL HeatWave Database Service.
+* Manage MySQL HeatWave Database Service
 
 ## Prerequisites
 
 * An Oracle Free Tier, Always Free, Paid or LiveLabs Cloud Account
 * An active MySQL HeatWave Service DB System
 
-## Task 1: Verify Database Management for MySQL Heatwave 
+## Task 1: Verify Database Management is enabled for MySQL HeatWave 
 
-Typically, the service is enabled during the provisioning of your MySQL HeatWave deployment, but you can enable the service from the MySQL HeatWave DB system details page if not already enabled.  Once enabled, you will have additional monitoring capabilities including a fleet overview of your MySQL HeatWave deployments and Performance Hub monitoring for database systems.
+By default, the service is enabled during the provisioning of your MySQL HeatWave deployment, but you can enable the service from the MySQL HeatWave DB system details page if not already enabled.  Once enabled, you will have additional monitoring capabilities including a fleet overview of your MySQL HeatWave deployments and Performance Hub monitoring for database systems.
 
 1. Log in to the Oracle Cloud Console, click the **Navigation Menu** in the upper left, navigate to **Databases**, and select **DB Systems** under MySQL HeatWave
     ![Database Systems](https://oracle-livelabs.github.io/common/images/console/database-dbsys.png "Database Systems")
@@ -123,7 +123,7 @@ Typically, the service is enabled during the provisioning of your MySQL HeatWave
 4. You can filter and sort the configuration variables based on **source**, **dynamic property**, or **configuration details** utilizing filters in the Filters section
     ![Config Variables Section](./images/config-var.png "Config Variables Section")
 
-## Task 5: Perform a Performance Diagnosis 
+## Task 5: Realtime Performance Diagnosis 
 1.	On the top of the **HeatWave_DB** details page, click the **Performance Hub** button.
     ![Select Performance Hub](./images/hub-select.png "Select Performance Hub")
 
